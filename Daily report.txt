@@ -1,0 +1,38 @@
+24/08/2016
+I have create login with google account in codeigniter.
+->Download and install a wordpress
+->Add enfold theme and import this theme in wordpress(http://www.kriesi.at/themes/enfold/).
+
+25/08/2016
+ght_institute updates:-
+Today I have create these pages:-
+->ABOUT GHT(http://mobilytedev.com/ght_institute/about-ght/)
+->MEET THE OWNER(http://mobilytedev.com/ght_institute/meet-the-owner/)
+->MEET THE DOCTOR(http://mobilytedev.com/ght_institute/meet-the-doctor/)
+->OUR SERVICES(http://mobilytedev.com/ght_institute/our-services/)
+->PRODUCTS(http://mobilytedev.com/ght_institute/products/)
+->CONTACT(http://mobilytedev.com/ght_institute/contact-2/)
+ 
+ 26/08/2016
+ ght institutte updates:-
+ our services:-
+ Today i have done our services page and create 26 posts.
+ 
+ 29/08/2016
+ ght institute updates:-
+ Today i have change the content of our services posts
+ 
+ 30/08/2016
+ ght_institute updaes
+ today i have create contact page 
+ 
+ 31/08/2016
+ ght institute updates
+ today i resolve the issue of contact page and our services or meet the team page.
+ 
+ 1/09/2016
+ ght institute updates
+ add the url in header section.
+  
+ ->upload a file in codeigniter
+ ->enter the data in skill_repo.
